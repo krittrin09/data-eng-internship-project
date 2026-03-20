@@ -31,8 +31,19 @@
 ---
 
 ## 🛠️ เครื่องมือที่ใช้ (Tech Stack)
-* **Data Extraction:** Python, Playwright
-* **Orchestration:** Apache Airflow
-* **Database:** MySQL
-* **Data Processing & ML:** Pandas, Prophet, Fuzzy Logic Model
-* **Data Visualization:** Tableau
+## 🛠️ เครื่องมือที่ใช้ (Tech Stack)
+
+**Data Extraction:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+
+**Orchestration:** ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+**Database:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Processing & ML:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Prophet](https://img.shields.io/badge/Prophet-239120?style=for-the-badge&logo=python&logoColor=white) 
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-8A2BE2?style=for-the-badge)
+
+**Data Visualization:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+**IDE & Environments:** ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
