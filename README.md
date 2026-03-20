@@ -8,7 +8,7 @@
 
 ## 🏗️ สถาปัตยกรรมระบบ (Data Pipeline Architecture)
 
-![System Architecture Diagram](./pipeline-flowchart.png)
+![System Architecture Diagram](./vegetable-price-pipeline.png)
 
 ### 🛤️ กระบวนการไหลของข้อมูล (Data Flow)
 โปรเจกต์นี้ถูกออกแบบมาเพื่อพัฒนาระบบรวบรวมข้อมูลราคาผลผลิตทางการเกษตรจากแหล่งข้อมูลสาธารณะ (Public Data Sources) นำมาจัดระเบียบและสร้างโมเดลทำนายแนวโน้ม โดยแบ่งการทำงานออกเป็น 4 ส่วนหลัก ดังนี้:
