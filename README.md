@@ -29,8 +29,6 @@
 * เพื่อใช้ในการแสดงผลเปรียบเทียบโครงสร้างราคาจากหลายแหล่งข้อมูล ช่วยสนับสนุนการวิเคราะห์แนวโน้มตลาดสินค้าเกษตร
 
 ---
-
-## 🛠️ เครื่องมือที่ใช้ (Tech Stack)
 ## 🛠️ เครื่องมือที่ใช้ (Tech Stack)
 
 **Data Extraction:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
